@@ -229,6 +229,8 @@ GEM
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
     i18n_data (0.7.0)
+    informant-rails (1.1.0)
+      rails (>= 3.0.0)
     inversion (1.0.0)
       loggability (~> 0.12)
     iso-639 (0.2.5)
@@ -614,6 +616,7 @@ DEPENDENCIES
   guard-rspec
   haml-rails
   haml_lint (~> 0.24.0)
+  informant-rails
   iso-639
   jquery-datatables-rails (~> 2.2.1)
   jquery-rails

@@ -225,6 +225,9 @@ gem 'dalli'
 # GC improvements
 gem 'tunemygc'
 
+#monitoring
+gem 'informant-rails'
+
 # Use guard and spring for testing in development
 group :development do
   # to launch specs when files are modified
